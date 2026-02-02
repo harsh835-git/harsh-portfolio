@@ -14,7 +14,7 @@ const About = () => {
         >
           <div className="w-full aspect-square bg-gradient-to-br from-cyan-500/20 to-purple-500/20 rounded-full blur-3xl absolute inset-0"></div>
           <div className="relative z-10 p-8 bg-white/5 border border-white/10 backdrop-blur-xl rounded-[2.5rem]">
-            <h3 className="text-5xl font-bold text-white/20 absolute -top-4 -left-4">01</h3>
+            <h3 className="text-5xl font-bold text-white/80 absolute -top-4 -left-4">01</h3>
             <p className="text-xl leading-relaxed text-gray-300 italic">
               "I don't just write code; I build systems that solve problems, from entry level logistics to national-level hackathon challenges."
             </p>
