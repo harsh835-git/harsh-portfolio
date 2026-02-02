@@ -6,6 +6,6 @@ import path from 'path'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  root: path.resolve(__harsh-portfolio), // <-- explicitly set current folder as root
+  root: path.resolve(__dirname), // <-- explicitly set current folder as root
   base: "/",
 })
