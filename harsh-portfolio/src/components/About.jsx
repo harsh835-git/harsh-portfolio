@@ -30,7 +30,7 @@ const About = () => {
         >
           <h2 className="text-4xl font-bold mb-6">About Me</h2>
           <p className="text-gray-400 mb-6 leading-relaxed">
-            I am a **B.Tech Computer Science student** at Bansal Institute of Science and Technology. My journey in web development started with a curiosity for how data moves across the internet, leading me to master the **MERN stack**.
+            I am a **B.Tech Computer Science student** at Bansal Institute of Science and Technology. My journey in web development started with a curiosity for how data moves across the internet, leading me to learn the **MERN stack**.
           </p>
           <p className="text-gray-400 mb-6 leading-relaxed">
             Beyond coding, I am the **President of the Waste To Wonder Club**, where I lead a team of 20+ members. This role, combined with my experience as a **National Level Participant in SIH 2025**, has taught me how to balance technical precision with effective leadership.
