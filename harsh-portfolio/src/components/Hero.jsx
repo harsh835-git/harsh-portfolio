@@ -1,7 +1,11 @@
 import React from "react";
 import { motion } from "framer-motion";
 import profile from "../assets/PassportProfessionalpic (1).png";
+<<<<<<< HEAD
+import resume from "../assets/Harsh_Soni.pdf";
+=======
 import resume from "../assets/Harsh Soni.pdf";
+>>>>>>> 51d2da78f3d77e58a0540d2b3476bb8966fea6d9
 
 const Hero = () => {
   // Animation Variants

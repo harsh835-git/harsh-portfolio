@@ -14,7 +14,7 @@ const About = () => {
         >
           <div className="w-full aspect-square bg-gradient-to-br from-cyan-500/20 to-purple-500/20 rounded-full blur-3xl absolute inset-0"></div>
           <div className="relative z-10 p-8 bg-white/5 border border-white/10 backdrop-blur-xl rounded-[2.5rem]">
-            <h3 className="text-5xl font-bold text-white/80 absolute -top-4 -left-4">01</h3>
+            <h3 className="text-5xl font-bold text-white/20 absolute -top-4 -left-4">01</h3>
             <p className="text-xl leading-relaxed text-gray-300 italic">
               "I don't just write code; I build systems that solve problems, from entry level logistics to national-level hackathon challenges."
             </p>
@@ -30,7 +30,7 @@ const About = () => {
         >
           <h2 className="text-4xl font-bold mb-6">About Me</h2>
           <p className="text-gray-400 mb-6 leading-relaxed">
-            I am a **B.Tech Computer Science student** at Bansal Institute of Science and Technology. My journey in web development started with a curiosity for how data moves across the internet, leading me to learn the **MERN stack**.
+            I am a **B.Tech Computer Science student** at Bansal Institute of Science and Technology. My journey in web development started with a curiosity for how data moves across the internet, leading me to master the **MERN stack**.
           </p>
           <p className="text-gray-400 mb-6 leading-relaxed">
             Beyond coding, I am the **President of the Waste To Wonder Club**, where I lead a team of 20+ members. This role, combined with my experience as a **National Level Participant in SIH 2025**, has taught me how to balance technical precision with effective leadership.
