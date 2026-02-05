@@ -1,21 +1,15 @@
 {
   "name": "harsh-portfolio",
   "private": true,
-<<<<<<< HEAD
-  "version": "0.0.0",
-=======
   "version": "1.0.0",
->>>>>>> 51d2da78f3d77e58a0540d2b3476bb8966fea6d9
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-<<<<<<< HEAD
     "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
-    "@tailwindcss/vite": "^4.1.18",
     "framer-motion": "^12.29.2",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
@@ -23,6 +17,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
+    "@tailwindcss/vite": "^4.1.18",
     "@types/react": "^19.2.5",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.1.1",
@@ -33,30 +28,6 @@
     "globals": "^16.5.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.18",
-    "vite": "^7.2.4"
-=======
-    "preview": "vite preview"
-  },
-  "dependencies": {
-    "react": "^19.2.0",
-    "react-dom": "^19.2.0",
-    "react-icons": "^5.5.0",
-    "framer-motion": "^12.29.2"
-  },
-  "devDependencies": {
-    "vite": "^7.3.1",
-    "@vitejs/plugin-react": "^5.1.1",
-    "tailwindcss": "^4.1.18",
-    "@tailwindcss/vite": "^4.1.18",
-    "postcss": "^8.5.6",
-    "autoprefixer": "^10.4.24",
-    "eslint": "^9.39.1",
-    "@eslint/js": "^9.39.1",
-    "eslint-plugin-react-hooks": "^7.0.1",
-    "eslint-plugin-react-refresh": "^0.4.24",
-    "globals": "^16.5.0",
-    "@types/react": "^19.2.5",
-    "@types/react-dom": "^19.2.3"
->>>>>>> 51d2da78f3d77e58a0540d2b3476bb8966fea6d9
+    "vite": "^7.3.1"
   }
 }
