@@ -43,6 +43,7 @@ const Projects = () => {
         "A utility tool using the Fetch API to provide live exchange rates with a clean, responsive interface.",
       tech: ["JavaScript", "Fetch API", "CSS"],
       link: "https://github.com/harsh835-git/Ricr-web_Dev/tree/main/React/CurrencyConverter",
+      liveLink: "https://currencyconverter83.netlify.app/",
       isFeatured: false,
     },
   ];
