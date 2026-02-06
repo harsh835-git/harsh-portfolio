@@ -27,6 +27,7 @@ const Projects = () => {
         "A fun web application that fetches random jokes from an external API in real-time.",
       tech: ["JavaScript", "Fetch API", "Tailwind"],
       link: "https://github.com/harsh835-git/Ricr-web_Dev/tree/main/Assignment/JokesApp",
+      liveLink: "https://app.netlify.com/projects/english-jokesapp/overview",
       isFeatured: false,
     },
     {
@@ -35,6 +36,7 @@ const Projects = () => {
         "A utility tool designed to calculate net salary based on tax brackets and deductions.",
       tech: ["JavaScript", "HTML", "CSS"],
       link: "https://github.com/harsh835-git/Ricr-web_Dev/tree/main/Assignment/salaryCalculator",
+      liveLink: "https://salarycal-c.netlify.app/",
       isFeatured: false,
     },
     {
